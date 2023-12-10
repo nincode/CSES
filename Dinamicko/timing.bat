@@ -1,1 +1,1 @@
-c:\python39\python.exe BookShopv4.py < test_input.txt
+python.exe BookShopv4-np.py < test_input.txt
